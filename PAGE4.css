@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ 
+ }
+ .pg4
+ {
+     height: fit-content;
+     position: static;
+     width: 1920px;
+ }
+
+.dialog
+{ 
+    position: relative;
+    left: 25%;
+   width: 970px;
+   height: 450px;
+   background-color: gainsboro;
+   border-radius: 30px;
+   border: 30px;
+   border-color: black;
+}
+
+.clients
+{
+    top: 250px;
+   position: relative;
+}
+

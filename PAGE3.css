@@ -1,0 +1,176 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ 
+ }
+
+.pageorient
+{
+    height: fit-content;
+    position: static;
+    width: 1920px;
+}
+
+
+ .ps
+{
+    position: relative;
+    width: 1920px ;
+    height: 90px;
+    background-color: gainsboro;
+    border-radius: 30px;
+
+}
+
+.pstopic
+{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 46px;
+}
+
+.oneone
+{
+   margin-top: 50px; 
+    width: 1890px;
+   margin-left: 10px; 
+    margin-right: 10px;
+    height: 850px;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.edtxtone
+{
+    position: absolute;
+    left: 950px;
+}
+
+.tag
+{
+    
+
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 1000px;
+
+}
+
+.twotwo
+{
+   margin-top: 50px; 
+    width: 1890px;
+   margin-left: 10px; 
+    margin-right: 10px;
+    height: 850px;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.edtxttwo
+{
+    position: absolute;
+    left: 950px;
+}
+
+.tag1
+{
+    
+
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 1000px;
+
+}
+
+.threethree
+{
+   margin-top: 50px; 
+    width: 1890px;
+   margin-left: 10px; 
+    margin-right: 10px;
+    height: 850px;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.edtxtthree
+{
+    position: absolute;
+    left: 950px;
+}
+
+.tag2
+{
+    
+
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 1000px;
+
+}
+
+.fourfour
+{
+   margin-top: 50px; 
+    width: 1890px;
+   margin-left: 10px; 
+    margin-right: 10px;
+    height: 850px;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.edtxtfour
+{
+    position: absolute;
+    left: 950px;
+}
+
+.tag3
+{
+    
+
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 1000px;
+
+}
+
+.fivefive
+{
+   margin-top: 50px; 
+    width: 1890px;
+   margin-left: 10px; 
+    margin-right: 10px;
+    height: 850px;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.edtxtfive
+{
+    position: absolute;
+    left: 950px;
+}
+
+.tag4
+{
+    
+
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 1000px;
+
+}

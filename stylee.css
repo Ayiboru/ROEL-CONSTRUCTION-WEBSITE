@@ -1,0 +1,38 @@
+
+
+
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+
+}
+ 
+
+.container
+      {
+        margin-top: 400px;    
+width: 1850px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 30px;
+        
+      }
+
+      .box
+      {
+        
+    width: 250px;
+    
+      }
+     .box img
+      {
+        border-radius: 30px;
+
+      }
+
+      .box:hover
+      {
+transform: scale(1.3);
+z-index: 2;
+      }
